@@ -9,9 +9,9 @@ namespace AggregationLib
             return VersionInfo.CurrentVersion;
         }
 
-        public static string GetBaseLibV1Description()
+        public static string GetBaseLibV2Description()
         {
-            return VersionInfo.V1;
+            return VersionInfo.V2;
         }
     }
 }
