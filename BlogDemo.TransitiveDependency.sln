@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AggregationLib", "Aggregati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{A1F9289D-3869-4959-BB75-F465F3A99A4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherAggregationLib", "AnotherAggregationLib\AnotherAggregationLib.csproj", "{060D896D-7E88-446E-804C-01C6DACD7A16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A1F9289D-3869-4959-BB75-F465F3A99A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1F9289D-3869-4959-BB75-F465F3A99A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1F9289D-3869-4959-BB75-F465F3A99A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060D896D-7E88-446E-804C-01C6DACD7A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060D896D-7E88-446E-804C-01C6DACD7A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060D896D-7E88-446E-804C-01C6DACD7A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060D896D-7E88-446E-804C-01C6DACD7A16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
